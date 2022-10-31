@@ -1,1 +1,2 @@
-# django-google-signin
+# YT-Django-Allauth-Google
+ 
